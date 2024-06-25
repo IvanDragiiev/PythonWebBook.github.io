@@ -257,3 +257,7 @@ button[type="submit"] {
 button[type="submit"]:hover {
     background-color: #004499;
 }
+
+.gif {
+    margin-top: 10px;
+}
